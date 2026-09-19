@@ -294,7 +294,7 @@ export default function SubmitPage() {
                     />
                     <Input
                       label="Location"
-                      placeholder="e.g. Ashanti Region, Kumasi"
+                      placeholder="e.g. Kambiti Region, Muranga county"
                       value={farmLocation}
                       onChange={(e) => setFarmLocation(e.target.value)}
                       required
